@@ -13,4 +13,8 @@ Output
    simple interest = p*t*r
 ```
 
+<<<<<<< HEAD
 _© 2021 XYZ, Inc._
+=======
+_© 2021 XYZ, Inc._
+>>>>>>> 89f6198d6ddd5cfd287204c608c8fea77a3a6eb5
